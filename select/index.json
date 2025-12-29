@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "水鏡",
+  "base_artist": "Imy",
+  "createdAt": "2025-12-29T16:54:30.329892Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水鏡",
+      "artist": "織田かおり",
+      "has_synced": false,
+      "path": "select/01_水鏡_織田かおり.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水鏡",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/02_水鏡_Suara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水鏡",
+      "artist": "Cocco",
+      "has_synced": true,
+      "path": "select/03_水鏡_Cocco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "水鏡",
+      "artist": "Cocco",
+      "has_synced": true,
+      "path": "select/04_水鏡_Cocco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水鏡",
+      "artist": "Imy, 藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_水鏡_Imy,_藍月なくる.txt"
+    }
+  ]
+}
